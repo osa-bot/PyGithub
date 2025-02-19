@@ -18,7 +18,7 @@
 ## Overview
 
 <overview>
-PyGithub is a library that simplifies interaction with GitHub's API, enabling developers to manage repositories, issues, and pull requests effortlessly. Its user-friendly design enhances productivity by allowing users to focus on feature development rather than technical complexities, making it an essential tool for software developers seeking to integrate GitHub functionalities into their applications.
+PyGithub is a user-friendly library that simplifies interactions with the GitHub API, enabling developers to efficiently manage repositories, issues, and pull requests. Its comprehensive features enhance project management and security practices, making it an invaluable tool for developers seeking to streamline their workflows and improve collaboration within the GitHub ecosystem.
 </overview>
 
 ---
@@ -43,15 +43,15 @@ PyGithub is a library that simplifies interaction with GitHub's API, enabling de
 
 <corefeatures>
 
-1. **GitHub API Integration**: Simplifies interaction with GitHub's API for developers.
+1. **GitHub Integration**: Seamlessly interacts with GitHub features like repositories, issues, and pull requests.
 
-2. **Comprehensive Library**: Covers repositories, issues, pull requests, and user authentication functionalities.
+2. **Comprehensive Documentation**: Offers guidance, usage examples, and configuration details for effective library utilization.
 
-3. **Documentation and Examples**: Provides essential guidance for effective library usage.
+3. **Continuous Integration**: Utilizes workflows for testing and deployment, enhancing code quality and reliability.
 
-4. **Automated Workflows**: Streamlines project management, testing, and continuous integration processes.
+4. **Dependency Management**: Structured approach to managing dependencies ensures compatibility and ease of installation.
 
-5. **Licensing and Governance**: Establishes project compliance and maintainership through documentation.
+5. **Security Monitoring**: Monitors security advisories and vulnerabilities to promote safer development practices.
 
 </corefeatures>
 
@@ -162,23 +162,26 @@ If you use this software, please cite it as below.
 
 ### APA format:
 
-    fl1pcoin (2025). PyGithub repository (Version ...) [Computer software]. https://github.com/fl1pcoin/PyGithub
+    fl1pcoin (2025). PyGithub repository [Computer software]. https://github.com/fl1pcoin/PyGithub
 
 ### BibTeX format:
 
-    @software{fl1pcoin_PyGithub_repository_2025,
+    @misc{PyGithub,
 
         author = {fl1pcoin},
 
-        doi = {},
-
         title = {PyGithub repository},
 
-        url = {https://github.com/fl1pcoin/PyGithub},
+        year = {2025},
 
-        version = {},
+        publisher = {github.com},
 
-        year = {2025}
+        journal = {github.com repository},
+
+        howpublished = {\url{https://github.com/fl1pcoin/PyGithub.git}},
+
+        url = {https://github.com/fl1pcoin/PyGithub.git}
+
     }
 
 ---
